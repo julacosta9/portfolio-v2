@@ -1,4 +1,4 @@
-<script context="module">
+<script lang="ts" context="module">
   import { browser, dev } from '$app/env';
 
   // we don't need any JS on this page, though we'll load
